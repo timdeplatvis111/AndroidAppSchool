@@ -23,9 +23,7 @@ public class Screen1Activity extends AppCompatActivity {
         btnUssrPlay.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Log.d("appel", "play USSR!!!");
-
-                
+                Log.d("appel", "play USSR!");
                 mp.start();
             }
         });
