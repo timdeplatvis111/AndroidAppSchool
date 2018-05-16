@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">USSR</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="txt_screen1">ussr anthem</string>
+    <string name="txt_screen2">Navigeer naar scherm 2</string>
+</resources>
