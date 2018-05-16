@@ -35,6 +35,8 @@ public class MainActivity extends AppCompatActivity {
                 Log.d("appel", "btnBoven Clicked!");
                 navigateToScreen1();
                 //mp.start();
+
+                //test
             }
         });
 
