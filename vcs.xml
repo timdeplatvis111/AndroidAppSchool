@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/timdeplatvis111/USSR.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="timdeplatvis111" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\GabeN\Desktop\Android App shit" />
